@@ -1,0 +1,53 @@
+2019-10-02T03:56:22.205Z [undefined] error: could not get the genres.
+Wed Oct 02 2019 11:56:50 GMT+0800 (Singapore Standard Time) [undefined] error: could not get the genres.
+Wed Oct 02 2019 11:58:39 GMT+0800 (Singapore Standard Time) [undefined] error: could not get the genres.
+Wed Oct 02 2019 11:59:10 GMT+0800 (Singapore Standard Time) [undefined] error: could not get the genres.
+Wed Oct 02 2019 12:02:23 GMT+0800 (Singapore Standard Time) [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] error: Error
+Wed Oct 02 2019 12:02:54 GMT+0800 (Singapore Standard Time) [undefined] error: Error
+Wed Oct 02 2019 12:04:05 GMT+0800 (Singapore Standard Time)- error: Error
+Wed Oct 02 2019 12:06:12 GMT+0800 (Singapore Standard Time)- error: Error
+error: Could not connect to MongoDB...TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MongoDB' {"service":"user-service","label":"[my-label]","timestamp":"2019-10-02 13:35:05"}
+error: Could not connect to MongoDB...TypeError: Cannot create property 'Symbol(level)' on string 'Connected to MongoDB' {"service":"user-service","timestamp":"2019-10-02 13:36:20"}
+Mon Oct 07 2019 17:42:35 GMT+0800 (Singapore Standard Time) [VIDLY] error: Could not connect to mongodb://localhost/vidly...ReferenceError: db is not defined
+Tue Oct 08 2019 15:58:38 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "{ _id: 5d9c41aed9ada3362c3d1686, name: \'genre1\' }" at path "_id" for model "Genre"
+Tue Oct 08 2019 15:59:18 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "{ _id: 5d9c41d613b5290fa0f6ca6e, name: \'genre1\' }" at path "_id" for model "Genre"
+Tue Oct 08 2019 16:01:36 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "undefined" at path "_id" for model "Genre"
+Tue Oct 08 2019 16:08:03 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+Tue Oct 08 2019 16:10:16 GMT+0800 (Singapore Standard Time) [VIDLY] error: mongoose is not defined
+Tue Oct 08 2019 16:10:16 GMT+0800 (Singapore Standard Time) [VIDLY] error: mongoose is not defined
+Tue Oct 08 2019 16:13:41 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+Tue Oct 08 2019 16:26:08 GMT+0800 (Singapore Standard Time) [VIDLY] error: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).
+Mon Oct 14 2019 14:07:12 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+Mon Oct 14 2019 14:12:42 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+Mon Oct 14 2019 15:18:16 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Mon Oct 14 2019 15:18:18 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Mon Oct 14 2019 15:18:55 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Mon Oct 14 2019 15:18:57 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Mon Oct 14 2019 15:19:18 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Mon Oct 14 2019 15:19:31 GMT+0800 (Singapore Standard Time) [VIDLY] error: Cannot set headers after they are sent to the client
+Tue Oct 15 2019 10:35:48 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:35:48 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:35:48 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:35:48 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:36:38 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:36:38 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:36:38 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:36:38 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:40:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:40:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:40:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 10:40:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: movie is not defined
+Tue Oct 15 2019 11:07:08 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:08 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:08 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:07:09 GMT+0800 (Singapore Standard Time) [VIDLY] error: req is not defined
+Tue Oct 15 2019 11:11:47 GMT+0800 (Singapore Standard Time) [VIDLY] error: moment is not defined
+Tue Oct 15 2019 11:11:47 GMT+0800 (Singapore Standard Time) [VIDLY] error: moment is not defined
+Tue Oct 15 2019 11:11:47 GMT+0800 (Singapore Standard Time) [VIDLY] error: moment is not defined
+Tue Oct 15 2019 11:11:47 GMT+0800 (Singapore Standard Time) [VIDLY] error: moment is not defined
+Tue Oct 15 2019 11:11:47 GMT+0800 (Singapore Standard Time) [VIDLY] error: moment is not defined
