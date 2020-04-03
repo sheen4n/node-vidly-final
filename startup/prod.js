@@ -2,6 +2,7 @@ const helmet = require('helmet');
 const compression = require('compression');
 const cors = require('cors');
 const xss = require('xss-clean');
+const hpp = require('hpp');
 
 module.exports = function(app) {
   // Enable CORS
