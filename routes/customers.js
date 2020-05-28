@@ -48,12 +48,12 @@ router.put("/:id", auth, async (req, res) => {
 
 router.delete("/:id", auth, async (req, res) => {
     // Lookup for the Genre
-    const genre = await Customer.findByIdAndRemove(req.params.id);
-    if (!genre) {
+    const customer = await Customer.findByIdAndRemove(req.params.id);
+    if (!customer) {
         return res.status(404).send("The customer with the given id not found");
     }
 
-    res.send(genre);
+    res.send(customer);
 });
 
 module.exports = router;
