@@ -5,6 +5,8 @@ metadata:
   title: node vidly final
   annotations:
     github.com/project-slug: sheen4n/node-vidly-final
+    github.com/owner: sheen4n
+    github.com/repo: node-vidly-final
 spec:
   type: website
   lifecycle: experimental
