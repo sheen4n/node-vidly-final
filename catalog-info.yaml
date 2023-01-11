@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: node-vidly-final
+  title: node vidly final
   annotations:
     github.com/project-slug: sheen4n/node-vidly-final
 spec:
